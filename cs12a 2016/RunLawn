@@ -1,0 +1,6 @@
+#! /afs/cats.ucsc.edu/users/g/alyehuan/cs12a
+# Lab 3
+echo -n "compiling Lawn.java"
+javac Lawn.java >& Lawn-errs
+echo -n "running Lawn.class"
+
