@@ -1,2 +1,2 @@
-# CS12a
-First programs. A bit messy.
+# Java and C
+Abstract Java and C programs 
